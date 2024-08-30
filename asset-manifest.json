@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/color-replacer-web/static/css/main.612ea199.css",
-    "main.js": "/color-replacer-web/static/js/main.fc45ff38.js",
+    "main.css": "/color-replacer-web/static/css/main.15c488c6.css",
+    "main.js": "/color-replacer-web/static/js/main.18cc4bd0.js",
     "index.html": "/color-replacer-web/index.html",
-    "main.612ea199.css.map": "/color-replacer-web/static/css/main.612ea199.css.map",
-    "main.fc45ff38.js.map": "/color-replacer-web/static/js/main.fc45ff38.js.map"
+    "main.15c488c6.css.map": "/color-replacer-web/static/css/main.15c488c6.css.map",
+    "main.18cc4bd0.js.map": "/color-replacer-web/static/js/main.18cc4bd0.js.map"
   },
   "entrypoints": [
-    "static/css/main.612ea199.css",
-    "static/js/main.fc45ff38.js"
+    "static/css/main.15c488c6.css",
+    "static/js/main.18cc4bd0.js"
   ]
 }
